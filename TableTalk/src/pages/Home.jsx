@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../elements/card.css";
 import "./Home.css"; 
-import "./mainHome.css"; 
+import "./MainHome.css"; 
 import "../elements/suButton.css";
 import mainLogo from "../assets/logo/mainLogoCrop.png";
 import boardGames from "../database/gamesData.jsx";
